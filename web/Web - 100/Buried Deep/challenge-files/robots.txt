@@ -1,0 +1,14 @@
+# Hey there, you're not a robot, yet I see you sniffing through this file 😡
+# Now get off my lawn! 🚫
+
+Disallow: /secret/
+Disallow: /hidden/
+Disallow: /cryptic/
+Disallow: /forbidden/
+Disallow: /pvt/
+Disallow: /buried/
+Disallow: /underground/
+Disallow: /secret_path/
+Disallow: /hidden_flag/
+Disallow: /buried_flag/
+Disallow: /encrypted/
