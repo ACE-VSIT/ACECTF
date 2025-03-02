@@ -28,8 +28,9 @@ Analyze its contents for further clues.
 
 ### **4. Piece Together the Initial Flag**
 - From the **DEBUG** log entries, assemble the partial flag.  
-- The initial flag retrieved:  
-ACECTF{5y573m_n33d5_r3574r7}
+- The initial entry seems to be different and means something
+
+- By looking carefully you'll see its a flag that is encoded in some way.
 
 ---
 
